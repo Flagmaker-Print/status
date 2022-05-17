@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 270,
     "timeDay": 318,
-    "timeWeek": 270,
+    "timeWeek": 269,
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {}
@@ -22,17 +22,19 @@
     "url": "$BETA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 481,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
-    "dailyMinutesDown": {}
+    "time": 401,
+    "timeDay": 309,
+    "timeWeek": 391,
+    "timeMonth": 401,
+    "timeYear": 401,
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   }
 ]
