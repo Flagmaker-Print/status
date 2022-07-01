@@ -7,6 +7,10 @@ sites:
     url: $PROD_URL
   - name: Beta
     url: $BETA_URL
+    expectedStatusCodes:
+      - 403
+      - 200
+      - 304 
 
 status-website:
   theme: night
