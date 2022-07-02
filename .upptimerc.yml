@@ -6,7 +6,7 @@ sites:
   - name: Production
     url: $PROD_URL
     headers:
-      - "Cookie":"secret=$HEADER_SECRET"
+      - "Cookie": "secret=$HEADER_SECRET"
     expectedStatusCodes:
         - 403
         - 200
@@ -14,7 +14,7 @@ sites:
   - name: Beta
     url: $BETA_URL
     headers:
-      - "Cookie":"secret=$HEADER_SECRET"
+      - "Cookie": "secret=$HEADER_SECRET"
     expectedStatusCodes:
       - 403
       - 200
