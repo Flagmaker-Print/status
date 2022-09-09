@@ -39,7 +39,7 @@
     "url": "$BETA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "94.66%",
     "uptimeWeek": "96.84%",
