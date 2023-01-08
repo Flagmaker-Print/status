@@ -6,12 +6,12 @@
     "slug": "production",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "93.79%",
+    "uptimeDay": "95.28%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.21%",
     "time": 871,
-    "timeDay": 2779,
+    "timeDay": 3213,
     "timeWeek": 1530,
     "timeMonth": 2912,
     "timeYear": 871,
@@ -74,14 +74,14 @@
     "url": "$BETA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "95.77%",
+    "uptimeDay": "97.14%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.66%",
     "time": 727,
-    "timeDay": 2490,
+    "timeDay": 2780,
     "timeWeek": 1810,
     "timeMonth": 926,
     "timeYear": 727,
@@ -121,8 +121,7 @@
       "2022-09-06": 100,
       "2022-09-05": 22,
       "2022-09-02": 7,
-      "2022-08-26": 14,
-      "2022-08-22": 11
+      "2022-08-26": 14
     }
   }
 ]
