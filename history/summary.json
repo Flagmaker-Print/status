@@ -79,18 +79,19 @@
     "url": "$BETA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "beta",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.72%",
-    "time": 693,
-    "timeDay": 171,
-    "timeWeek": 435,
-    "timeMonth": 347,
-    "timeYear": 693,
+    "uptimeYear": "99.73%",
+    "time": 692,
+    "timeDay": 202,
+    "timeWeek": 410,
+    "timeMonth": 344,
+    "timeYear": 692,
     "dailyMinutesDown": {
+      "2023-03-10": 0,
       "2023-02-23": 12,
       "2023-02-22": 6,
       "2023-02-20": 3,
@@ -130,7 +131,7 @@
       "2022-09-09": 79,
       "2022-09-08": 85,
       "2022-09-07": 62,
-      "2022-09-06": 76
+      "2022-09-06": 44
     }
   }
 ]
