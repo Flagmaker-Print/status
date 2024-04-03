@@ -6,15 +6,15 @@
     "slug": "production",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.57%",
-    "time": 651,
-    "timeDay": 302,
-    "timeWeek": 348,
-    "timeMonth": 314,
-    "timeYear": 440,
+    "time": 650,
+    "timeDay": 523,
+    "timeWeek": 385,
+    "timeMonth": 312,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2024-04-01": 6,
       "2024-03-21": 6,
@@ -38,8 +38,7 @@
       "2023-04-08": 25,
       "2023-04-07": 64,
       "2023-04-06": 27,
-      "2023-04-05": 6,
-      "2023-04-04": 25
+      "2023-04-05": 6
     }
   },
   {
@@ -54,10 +53,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.59%",
     "time": 590,
-    "timeDay": 571,
-    "timeWeek": 404,
-    "timeMonth": 333,
-    "timeYear": 476,
+    "timeDay": 551,
+    "timeWeek": 456,
+    "timeMonth": 332,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2024-03-19": 6,
       "2024-03-05": 11,
@@ -81,8 +80,7 @@
       "2023-04-08": 10,
       "2023-04-07": 41,
       "2023-04-06": 20,
-      "2023-04-05": 6,
-      "2023-04-04": 20
+      "2023-04-05": 6
     }
   }
 ]
