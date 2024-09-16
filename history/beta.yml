@@ -1,7 +1,7 @@
 url: $BETA_URL
-status: down
-code: 502
-responseTime: 191
-lastUpdated: 2024-09-16T14:04:24.500Z
+status: up
+code: 200
+responseTime: 216
+lastUpdated: 2024-09-16T14:13:09.900Z
 startTime: 2022-05-10T12:12:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
