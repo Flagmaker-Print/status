@@ -6,15 +6,15 @@
     "slug": "production",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.53%",
     "time": 388,
-    "timeDay": 496,
-    "timeWeek": 362,
-    "timeMonth": 334,
-    "timeYear": 400,
+    "timeDay": 135,
+    "timeWeek": 369,
+    "timeMonth": 327,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2025-06-02": 13,
       "2025-05-28": 11,
@@ -67,15 +67,15 @@
     "slug": "beta",
     "status": "up",
     "uptime": "98.09%",
-    "uptimeDay": "99.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "94.57%",
     "time": 476,
-    "timeDay": 507,
-    "timeWeek": 706,
-    "timeMonth": 554,
-    "timeYear": 534,
+    "timeDay": 148,
+    "timeWeek": 687,
+    "timeMonth": 526,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2025-06-02": 12,
       "2025-05-28": 11,
@@ -146,8 +146,7 @@
       "2024-06-21": 6,
       "2024-06-20": 8,
       "2024-06-14": 6,
-      "2024-06-07": 8,
-      "2024-06-04": 6
+      "2024-06-07": 8
     }
   }
 ]
