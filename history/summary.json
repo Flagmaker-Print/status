@@ -6,15 +6,15 @@
     "slug": "production",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "98.47%",
     "time": 397,
-    "timeDay": 296,
+    "timeDay": 367,
     "timeWeek": 409,
-    "timeMonth": 421,
-    "timeYear": 378,
+    "timeMonth": 423,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2025-08-18": 4,
       "2025-08-17": 4,
@@ -51,8 +51,7 @@
       "2024-09-05": 78,
       "2024-09-02": 32,
       "2024-08-31": 37,
-      "2024-08-30": 28,
-      "2024-08-20": 93
+      "2024-08-30": 28
     }
   },
   {
@@ -66,10 +65,10 @@
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "94.53%",
-    "time": 595,
-    "timeDay": 378,
-    "timeWeek": 459,
-    "timeMonth": 1056,
+    "time": 596,
+    "timeDay": 648,
+    "timeWeek": 493,
+    "timeMonth": 999,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2025-08-17": 4,
@@ -132,8 +131,7 @@
       "2024-09-02": 34,
       "2024-08-31": 26,
       "2024-08-22": 7,
-      "2024-08-21": 8,
-      "2024-08-20": 88
+      "2024-08-21": 8
     }
   }
 ]
