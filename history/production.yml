@@ -1,7 +1,7 @@
 url: $PROD_URL
-status: down
-code: 502
-responseTime: 238
-lastUpdated: 2025-09-13T19:19:51.073Z
+status: up
+code: 200
+responseTime: 2529
+lastUpdated: 2025-09-13T19:25:35.531Z
 startTime: 2022-05-10T12:12:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
