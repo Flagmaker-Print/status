@@ -4,16 +4,16 @@
     "url": "$PROD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 500,
-    "timeDay": 437,
-    "timeWeek": 418,
-    "timeMonth": 389,
+    "uptimeDay": "90.48%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.73%",
+    "time": 501,
+    "timeDay": 480,
+    "timeWeek": 434,
+    "timeMonth": 394,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2025-07-29": 355,
@@ -49,7 +49,8 @@
       "2026-03-03": 12,
       "2026-03-28": 12,
       "2026-04-01": 12,
-      "2026-04-19": 36
+      "2026-04-19": 36,
+      "2026-07-23": 137
     }
   },
   {
